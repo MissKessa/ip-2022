@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FSim
+comment0.text=\r\n\ FSim\ is\ a\ class\ that\ draws\ the\ map\ of\ the\ airplanes\ flying\ in\ the\ air\ and\ it\ also\ animates\ them.\r\n\r\n\ @author\ Paula\ D\u00EDaz\ \u00C1lvarez\r\n\ @version\ 29/11/2022\r\n
+comment1.params=
+comment1.target=FSim()
+comment1.text=\r\n\ Constructor\ that\ sets\ the\ limits\ of\ the\ map\ acording\ to\ the\ Y_SOUTH_BORDER,\ Y_NORTH_BORDER,\ X_EAST_BORDER\ and\ X_WEST_BORDER\r\n\ defined\ on\ the\ Airplane\ class\r\n
+comment2.params=plane
+comment2.target=void\ add(Airplane)
+comment2.text=\r\n\ Adds\ a\ givne\ airplane\ to\ the\ map\r\n\ @param\ plane\ It's\ the\ airplane\ that\ is\ going\ to\ be\ added\r\n
+comment3.params=
+comment3.target=void\ paintBackground()
+comment3.text=\r\n\ It\ sets\ the\ background\ of\ the\ map\ (the\ land\ and\ the\ radar)\r\n
+comment4.params=
+comment4.target=void\ paintForegroung()
+comment4.text=\r\n\ It\ sets\ the\ airplanes\ on\ the\ map\ according\ to\ their\ positions\r\n
+comment5.params=
+comment5.target=void\ paint()
+comment5.text=\r\n\ It\ prints\ the\ map\ with\ the\ background\ and\ the\ airplanes\r\n
+comment6.params=frames
+comment6.target=void\ animate(int)
+comment6.text=\r\n\ It\ prints\ the\ map\ with\ the\ background\ and\ the\ airplanes\ a\ given\ number\ of\ times\ while\ their\ airplanes\ are\ moving\ in\ each\r\n\ frame\r\n\ @param\ frames\ It's\ the\ number\ of\ times\ thath\ the\ map\ will\ be\ painted\ and\ the\ number\ of\ times\ the\ airplanes\ will\ fly\r\n
+numComments=7
