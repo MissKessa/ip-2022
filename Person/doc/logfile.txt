@@ -1,0 +1,53 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Users\Paula\Desktop\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Users\Paula\Desktop\bluej\lib\bluejcore.jar;C:\Users\Paula\Desktop\bluej\lib\junit-jupiter-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-jupiter-api-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-jupiter-engine-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-jupiter-params-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-commons-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-console-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-console-standalone-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-engine-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-launcher-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-reporting-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-runner-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-suite-api-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-platform-testkit-1.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\junit-quickcheck-core-0.9.jar;C:\Users\Paula\Desktop\bluej\lib\junit-vintage-engine-5.5.2.jar;C:\Users\Paula\Desktop\bluej\lib\hamcrest-core-1.3.jar;C:\Users\Paula\Desktop\bluej\lib\hamcrest-library-1.3.jar;C:\Users\Paula\Desktop\bluej\lib\lang-stride.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.base.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.controls.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.fxml.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.graphics.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.media.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.properties.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.swing.jar;C:\Users\Paula\Desktop\bluej\lib\javafx\lib\javafx.web.jar;C:\Users\Paula\Desktop\Person
+-d
+C:\Users\Paula\Desktop\Person\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Paula\Desktop\Person\Airplane.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Paula\Desktop\Person\Airplane.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.14.1
+Building tree for all the packages and classes...
+Generating C:\Users\Paula\Desktop\Person\doc\Airplane.html...
+C:\Users\Paula\Desktop\Person\Airplane.java:77: warning - @param argument "char" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:88: warning - @param argument "char" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:89: warning - @param argument "double" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:90: warning - @param argument "double" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:91: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:92: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:93: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:94: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:123: warning - @param argument "char" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:141: warning - @param argument "double" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:160: warning - @param argument "double" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:179: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:199: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:219: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:239: warning - @param argument "int" is not a parameter name.
+C:\Users\Paula\Desktop\Person\Airplane.java:259: warning - @param argument "int" is not a parameter name.
+Generating C:\Users\Paula\Desktop\Person\doc\package-summary.html...
+Generating C:\Users\Paula\Desktop\Person\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Paula\Desktop\Person\doc\allclasses.html...
+Generating C:\Users\Paula\Desktop\Person\doc\allclasses.html...
+Generating C:\Users\Paula\Desktop\Person\doc\index.html...
+16 warnings
